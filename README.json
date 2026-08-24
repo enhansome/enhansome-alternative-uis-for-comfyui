@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T07:03:31Z",
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4484
+                "stars": 4487
               }
             }
           ],
@@ -278,7 +278,7 @@
                 "archived": false,
                 "id": 1058303995,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:35:30Z",
+                "last_commit": "2026-08-24T17:04:08Z",
                 "owner": "LuqP2",
                 "repo": "Image-MetaHub",
                 "stars": 315
@@ -300,7 +300,7 @@
                 "archived": false,
                 "id": 1197751536,
                 "language": "Python",
-                "last_commit": "2026-08-22T16:16:02Z",
+                "last_commit": "2026-08-24T16:33:44Z",
                 "owner": "laboratoiresonore",
                 "repo": "spellcaster",
                 "stars": 57
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-21T12:41:18Z",
                 "owner": "biagiomaf",
                 "repo": "smart-comfyui-gallery",
-                "stars": 368
+                "stars": 372
               }
             }
           ],
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-23T11:02:29Z",
                 "owner": "Acly",
                 "repo": "krita-ai-diffusion",
-                "stars": 10500
+                "stars": 10501
               }
             }
           ],
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-24T02:18:34Z",
                 "owner": "EnviralDesign",
                 "repo": "LatentSlate",
-                "stars": 4
+                "stars": 5
               }
             }
           ],
@@ -865,7 +865,7 @@
                 "last_commit": "2026-08-23T21:35:28Z",
                 "owner": "LykosAI",
                 "repo": "StabilityMatrix",
-                "stars": 8670
+                "stars": 8673
               }
             }
           ],
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-19T17:43:46Z",
                 "owner": "VelornLabs",
                 "repo": "velorn",
-                "stars": 446
+                "stars": 448
               }
             }
           ],
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-24T12:36:51Z",
                 "owner": "PurpleDoubleD",
                 "repo": "locally-uncensored",
-                "stars": 1122
+                "stars": 1127
               }
             }
           ],
@@ -1016,7 +1016,7 @@
                 "archived": false,
                 "id": 1074806136,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:47:15Z",
+                "last_commit": "2026-08-24T20:09:58Z",
                 "owner": "Pikselkroken",
                 "repo": "pixlstash",
                 "stars": 84
@@ -1041,7 +1041,7 @@
                 "last_commit": "2026-08-04T15:48:23Z",
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 2908
+                "stars": 2909
               }
             }
           ],
@@ -1201,7 +1201,7 @@
                 "last_commit": "2026-08-12T20:30:03Z",
                 "owner": "runew0lf",
                 "repo": "RuinedFooocus",
-                "stars": 686
+                "stars": 687
               }
             }
           ],
@@ -1286,7 +1286,7 @@
                 "archived": false,
                 "id": 1183064071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T16:55:16Z",
+                "last_commit": "2026-08-24T20:36:54Z",
                 "owner": "Mooshieblob1",
                 "repo": "MooshieUI",
                 "stars": 180
@@ -1506,7 +1506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:26.691Z",
+    "last_updated": "2026-08-24T22:48:14.312Z",
     "original_repository": "light-and-ray/awesome-alternative-uis-for-comfyui",
     "original_repository_id": 1131228006,
     "original_repository_sha": "5152cb99475c4a463c8416c3612e5f3e1e6a2d32",
