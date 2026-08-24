@@ -1,7 +1,1512 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/mcmonkeyprojects/SwarmUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818118661,
+                "language": "C#",
+                "last_commit": "2026-08-24T07:03:31Z",
+                "owner": "mcmonkeyprojects",
+                "repo": "SwarmUI",
+                "stars": 4484
+              }
+            }
+          ],
+          "description": "A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.",
+          "node_type": "group",
+          "title": "● SwarmUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1052707140,
+                "language": "Python",
+                "last_commit": "2026-08-23T15:57:08Z",
+                "owner": "light-and-ray",
+                "repo": "Minimalistic-Comfy-Wrapper-WebUI",
+                "stars": 139
+              }
+            }
+          ],
+          "description": "This is a UI extension for ComfyUI adding an additional inference focused UI, that dynamically adapts to your workflows - you only need to change the titles of nodes that you want to see in the Minimalistic webui, and click \"Refresh\" button. Also can work as a standalone server",
+          "node_type": "group",
+          "title": "● Minimalistic Comfy Wrapper WebUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/cosmicbuffalo/comfyui-mobile-frontend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134086969,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T00:52:11Z",
+                "owner": "cosmicbuffalo",
+                "repo": "comfyui-mobile-frontend",
+                "stars": 67
+              }
+            }
+          ],
+          "description": "An experimental dedicated mobile-first frontend for ComfyUI.\nThis project operates as a ComfyUI Custom Node that serves a modern, responsive React application. It is designed to make monitoring and managing your ComfyUI workflows and queue easy and accessible from your phone or tablet.",
+          "node_type": "group",
+          "title": "● ComfyUI Mobile Frontend"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jaeone94/comfy-mobile-ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057064724,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T06:01:22Z",
+                "owner": "jaeone94",
+                "repo": "comfy-mobile-ui",
+                "stars": 94
+              }
+            }
+          ],
+          "description": "A mobile-first, node-style web interface for ComfyUI Bringing ComfyUI's familiar node graph workflows to your mobile device",
+          "node_type": "group",
+          "title": "● ComfyMobileUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/legal-hkr/comfychair",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111861060,
+                "language": "Kotlin",
+                "last_commit": "2026-05-26T11:50:53Z",
+                "owner": "legal-hkr",
+                "repo": "comfychair",
+                "stars": 181
+              }
+            }
+          ],
+          "description": "ComfyChair provides a streamlined mobile interface for interacting with ComfyUI servers, allowing you to generate and manage AI images and videos directly from your Android device. The app communicates with your ComfyUI server via its API, bringing the power of node-based AI generation to your mobile workflow.",
+          "node_type": "group",
+          "title": "● ComfyChair"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Chaoses-Ib/ComfyScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674782109,
+                "language": "Python",
+                "last_commit": "2026-07-18T20:09:52Z",
+                "owner": "Chaoses-Ib",
+                "repo": "ComfyScript",
+                "stars": 701
+              }
+            }
+          ],
+          "description": "A Python frontend and library for ComfyUI",
+          "node_type": "group",
+          "title": "● ComfyScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jimpi-dev/WorkflowUI/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158127604,
+                "language": "Svelte",
+                "last_commit": "2026-06-30T22:09:53Z",
+                "owner": "jimpi-dev",
+                "repo": "WorkflowUI",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "Turn ComfyUI workflows into web apps. Import workflow JSON, build custom apps with forms and defaults, run workflows through a queue, and organize results in projects.",
+          "node_type": "group",
+          "title": "● WorkflowUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/FlowScale-AI/flowscale-aios",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171476212,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T02:17:29Z",
+                "owner": "FlowScale-AI",
+                "repo": "flowscale-aios",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "An open-source platform to build, test, and deploy AI workflows powered by ComfyUI — available as a web app and native desktop app.",
+          "node_type": "group",
+          "title": "● FlowScale AIOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ketle-man/ComfyUI-Workflow-Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185318751,
+                "language": "HTML",
+                "last_commit": "2026-08-24T03:16:31Z",
+                "owner": "ketle-man",
+                "repo": "ComfyUI-Workflow-Studio",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "A comprehensive workflow management and generation UI plugin for ComfyUI. Browse, organize, and execute workflows directly from a dedicated studio interface — without switching between windows or manually editing JSON.",
+          "node_type": "group",
+          "title": "● ComfyUI-Workflow-Studio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/JpAndreBTA/Nexus-BTA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1245254550,
+                "language": "HTML",
+                "last_commit": "2026-08-19T18:22:45Z",
+                "owner": "JpAndreBTA",
+                "repo": "Nexus-BTA",
+                "stars": 96
+              }
+            }
+          ],
+          "description": "A local AI image, video, workflow and 3D experiment studio built around an embedded ComfyUI runtime. It keeps the most common controls in one clean interface, while still letting advanced users inspect and edit the Comfy workflow graph.",
+          "node_type": "group",
+          "title": "● Nexus BTA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Ginolazy/ComfyPanel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164114905,
+                "language": "Python",
+                "last_commit": "2026-08-23T14:45:49Z",
+                "owner": "Ginolazy",
+                "repo": "ComfyPanel",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "ComfyPanel is a professional Photoshop plugin built for designers and AI developers. Acting as a central hub, it seamlessly bridges local ComfyUI computing power with cloud platforms (RunningHub, BizyAir) to deliver a high-performance Edge-Cloud Hybrid workflow.",
+          "node_type": "group",
+          "title": "● ComfyPanel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/gvastethecreator/codex-studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231523338,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T03:19:06Z",
+                "owner": "gvastethecreator",
+                "repo": "codex-studio",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "A local-first image studio for creating, reviewing, and organizing AI images through your authenticated Codex/ChatGPT session.",
+          "node_type": "group",
+          "title": "● Codex Studio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/LuqP2/Image-MetaHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058303995,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:35:30Z",
+                "owner": "LuqP2",
+                "repo": "Image-MetaHub",
+                "stars": 315
+              }
+            }
+          ],
+          "description": "Image MetaHub is a desktop app for browsing large local libraries of AI outputs without uploading anything to the cloud. It scans your folders, extracts metadata from popular generators, caches results for fast reuse, and lets you filter by prompt, model, LoRA, sampler, seed, dimensions, telemetry, tags, and more.",
+          "node_type": "group",
+          "title": "● Image MetaHub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/laboratoiresonore/spellcaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197751536,
+                "language": "Python",
+                "last_commit": "2026-08-22T16:16:02Z",
+                "owner": "laboratoiresonore",
+                "repo": "spellcaster",
+                "stars": 57
+              }
+            }
+          ],
+          "description": "Spellcaster is a headache-free, expert, private, free and organic local AI generation. Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk to the same ComfyUI backend, and every generated asset is visible from every interface.",
+          "node_type": "group",
+          "title": "● Spellcaster"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/nihedon/ComfyGrid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1089740131,
+                "language": "Svelte",
+                "last_commit": "2026-08-17T06:58:17Z",
+                "owner": "nihedon",
+                "repo": "ComfyGrid",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "A grid-based, intuitive frontend for ComfyUI inspired by Stable Diffusion WebUI, designed to simplify node interactions and image generation. The primary goal is to consolidate ComfyUI node operations into a single screen, enabling image generation without the need to consciously connect nodes.",
+          "node_type": "group",
+          "title": "● ComfyGrid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/shenhuaxiyuan/SmartComfy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1270785256,
+                "language": null,
+                "last_commit": "2026-08-24T07:33:17Z",
+                "owner": "shenhuaxiyuan",
+                "repo": "SmartComfy",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "SmartComfy is a Chinese-language AI workflow management platform that provides visual application creation and management capabilities for ComfyUI.",
+          "node_type": "group",
+          "title": "● SmartComfy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/biagiomaf/smart-comfyui-gallery",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1049911276,
+                "language": "HTML",
+                "last_commit": "2026-08-21T12:41:18Z",
+                "owner": "biagiomaf",
+                "repo": "smart-comfyui-gallery",
+                "stars": 368
+              }
+            }
+          ],
+          "description": "SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder. Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.",
+          "node_type": "group",
+          "title": "● SmartGallery DAM"
+        }
+      ],
+      "title": "Category 1: Close integration, work with the same workflows"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ViewComfy/ViewComfy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 864107095,
+                "language": "TypeScript",
+                "last_commit": "2026-03-19T15:12:27Z",
+                "owner": "ViewComfy",
+                "repo": "ViewComfy",
+                "stars": 667
+              }
+            }
+          ],
+          "description": "ViewComfy is an open source tool to help you create beautiful web apps from ComfyUI workflows. It can support multiple workflows in the same UI and works well with image, video, and text outputs.",
+          "node_type": "group",
+          "title": "● ViewComfy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ImDarkTom/ComfyUIMini",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681240572,
+                "language": "TypeScript",
+                "last_commit": "2025-08-31T16:35:57Z",
+                "owner": "ImDarkTom",
+                "repo": "ComfyUIMini",
+                "stars": 389
+              }
+            }
+          ],
+          "description": "A mobile-friendly WebUI to run ComfyUI workflows.",
+          "node_type": "group",
+          "title": "● ComfyUI Mini"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Acly/krita-ai-diffusion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686161611,
+                "language": "Python",
+                "last_commit": "2026-08-23T11:02:29Z",
+                "owner": "Acly",
+                "repo": "krita-ai-diffusion",
+                "stars": 10500
+              }
+            }
+          ],
+          "description": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+          "node_type": "group",
+          "title": "● Generative AI for Krita (Krita AI diffusion)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/intel/AI-Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826984591,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T04:28:28Z",
+                "owner": "intel",
+                "repo": "AI-Playground",
+                "stars": 963
+              }
+            }
+          ],
+          "description": "AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.",
+          "node_type": "group",
+          "title": "● Intel AI Playground"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/deni2312/ComfyUIMobileApp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1064785756,
+                "language": "Dart",
+                "last_commit": "2025-10-14T09:30:11Z",
+                "owner": "deni2312",
+                "repo": "ComfyUIMobileApp",
+                "stars": 24
+              }
+            }
+          ],
+          "description": "Comfy App is an unofficial client for Android that connects with a local ComfyUI server, allowing users to upload, manage, and view image or video generation pipelines in an easy and intuitive interface.",
+          "node_type": "group",
+          "title": "● 🛋️ Comfy App (ComfyUIMobileApp)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ennis-ma/ComfyUI-Workflow-Hub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949242302,
+                "language": "JavaScript",
+                "last_commit": "2025-06-04T18:55:51Z",
+                "owner": "ennis-ma",
+                "repo": "ComfyUI-Workflow-Hub",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "A modern web interface for managing and executing ComfyUI workflows. This project provides a user-friendly way to upload, manage, and execute ComfyUI workflows through a clean web interface or API.",
+          "node_type": "group",
+          "title": "● ComfyUI Workflow Hub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/sorption-dev/mycraft-comfyui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958254645,
+                "language": "Python",
+                "last_commit": "2026-04-26T16:18:26Z",
+                "owner": "sorption-dev",
+                "repo": "mycraft-comfyui",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Generate images in story board way. Mycraft provides a limitless storyboard experience for image generation, powered by the ComfyUI API.",
+          "node_type": "group",
+          "title": "● Mycraft"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ai-joe-git/comfyui-webui-generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165521651,
+                "language": "Python",
+                "last_commit": "2026-07-24T17:37:45Z",
+                "owner": "ai-joe-git",
+                "repo": "comfyui-webui-generator",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Turn any ComfyUI workflow (API JSON) into a beautiful, standalone HTML Web App — with zero frontend coding.",
+          "node_type": "group",
+          "title": "● ComfyUI WebUI Generator"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Arif-salah/Nexa_comfyui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169593707,
+                "language": "JavaScript",
+                "last_commit": "2026-03-02T15:42:18Z",
+                "owner": "Arif-salah",
+                "repo": "Nexa_comfyui",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "A sleek, responsive android app that connects directly to your local ComfyUI server. Generate images from your phone, build dynamic UIs from JSON workflows, upload images to LoadImage nodes.",
+          "node_type": "group",
+          "title": "● Nexa - Your On-the-Go ComfyUI Companion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/rioX432/CivitDeck",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1146530046,
+                "language": "Kotlin",
+                "last_commit": "2026-07-19T08:12:49Z",
+                "owner": "rioX432",
+                "repo": "CivitDeck",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "CivitAI mobile client for Android & iOS — built with Kotlin Multiplatform (KMP). ComfyUI & SD WebUI Integration — send models to ComfyUI or Automatic1111/Forge, manage the generation queue, browse generation history, import custom workflows, and use LoRA/ControlNet support",
+          "node_type": "group",
+          "title": "● CivitDeck"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174614095,
+                "language": "Python",
+                "last_commit": "2026-04-21T05:23:12Z",
+                "owner": "HuangYuChuh",
+                "repo": "ComfyUI_Skills_OpenClaw",
+                "stars": 395
+              }
+            }
+          ],
+          "description": "This project is a ComfyUI skill integration layer for OpenClaw, Codex, and Claude Code. It turns the workflows you build and export from ComfyUI in API format into callable skills that these agents can trigger with natural language.",
+          "node_type": "group",
+          "title": "● ComfyUI Skills for OpenClaw"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ikusag-png/ComfyUI_bsk_UI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179618248,
+                "language": "JavaScript",
+                "last_commit": "2026-05-15T01:09:55Z",
+                "owner": "ikusag-png",
+                "repo": "ComfyUI_bsk_UI",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "ComfyUI_bsk_UI is a modern and user-friendly interface for ComfyUI, designed to liberate you from the cumbersome and complicated operation style of the original frontend. Create your AI art workflows more efficiently and comfortably!",
+          "node_type": "group",
+          "title": "● ComfyUI_bsk_UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Sorbiers/outsweeper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232097522,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T13:35:50Z",
+                "owner": "Sorbiers",
+                "repo": "outsweeper",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "AI Generation Output Triage for ComfyUI A fast, keyboard-driven photo triage tool. Open a folder, browse images in a scrollable strip, and sort them into selected or dust sub-folders — all without leaving the keyboard. Pairs naturally with ComfyUI and LM Studio for AI-assisted workflows.",
+          "node_type": "group",
+          "title": "● OutSweeper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/saintbrodie/Orange",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1210754038,
+                "language": "JavaScript",
+                "last_commit": "2026-06-05T18:13:21Z",
+                "owner": "saintbrodie",
+                "repo": "Orange",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Orange is a minimalist, dynamic web frontend wrapper around ComfyUI. It replaces the complex node-graph interface with a user-friendly, responsive experience that allows anyone to generate, edit, and upscale media via your local ComfyUI instance without knowing the node-spaghetti underneath.",
+          "node_type": "group",
+          "title": "● Orange 😼"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/nvmax/Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1220165028,
+                "language": "Python",
+                "last_commit": "2026-08-19T19:50:57Z",
+                "owner": "nvmax",
+                "repo": "Link",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "LINK is the definitive command center for Generative AI. It’s not just a bridge—it's a professional-grade orchestration suite that elevates ComfyUI into a seamless Discord experience. If you can dream it in Comfy, you can dominate it in Discord.",
+          "node_type": "group",
+          "title": "● 🔗 LINK: The Ultimate Discord-ComfyUI Bridge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/MR-444/ImageGenerator.MAUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940195262,
+                "language": "C#",
+                "last_commit": "2026-08-22T00:28:37Z",
+                "owner": "MR-444",
+                "repo": "ImageGenerator.MAUI",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "It started as a plain image generator and grew into a forge — a desktop workbench that melts together many engines (cloud APIs and your own local ComfyUI/Ollama rig), hammers prompts into structured, spatially-aware Ideogram V4 captions, and lets variants evolve through a mutation/breeding engine.",
+          "node_type": "group",
+          "title": "● 🔥 Emberforge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/felipebottega/FlowForge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1258519001,
+                "language": "Python",
+                "last_commit": "2026-06-23T17:32:34Z",
+                "owner": "felipebottega",
+                "repo": "FlowForge",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "FlowForge translates natural language into ComfyUI execution. It functions as an intelligent layer that validates requirements and orchestrates image and video rendering end-to-end.",
+          "node_type": "group",
+          "title": "● FlowForge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/EnviralDesign/LatentSlate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126004851,
+                "language": "Rust",
+                "last_commit": "2026-08-24T02:18:34Z",
+                "owner": "EnviralDesign",
+                "repo": "LatentSlate",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "LatentSlate is a local-first generative Non-Linear Editing desktop app supporting a range of generation providers, starting with ComfyUI and your own workflows. It provides a a streamlined and opinionated UX that exposes only the parameters and settings you need to care about to create, version, and iterate on your vision.",
+          "node_type": "group",
+          "title": "● LatentSlate"
+        }
+      ],
+      "title": "Category 2: UI for workflows exported in API format"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Arif-salah/comfygen-studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1023918022,
+                "language": "JavaScript",
+                "last_commit": "2025-07-21T23:09:51Z",
+                "owner": "Arif-salah",
+                "repo": "comfygen-studio",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "A clean and minimal WebUI built for ComfyUI, focused on mobile usability and ease of use. This project was developed for personal workflow needs, but feel free to try it out, improve it, or contribute!",
+          "node_type": "group",
+          "title": "● ComfyGen – Simple WebUI for ComfyUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/SD-inst/cozyui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 915775423,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:05:48Z",
+                "owner": "SD-inst",
+                "repo": "cozyui",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "This is a yet another frontend for ComfyUI to make it actually not so painful to use. It's designed after AUTOMATIC1111 Web UI and is mobile-friendly. Not \"mobile first\" really but I check it there often and improve UX.",
+          "node_type": "group",
+          "title": "● CozyUI (fr this time)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jordenyt/stable_diffusion_sketch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615194719,
+                "language": "Java",
+                "last_commit": "2026-02-23T04:52:43Z",
+                "owner": "jordenyt",
+                "repo": "stable_diffusion_sketch",
+                "stars": 128
+              }
+            }
+          ],
+          "description": "Transform your sketches and photos with Stable Diffusion on Android. This app integrates with ComfyUI via a RESTful API, enabling powerful AI image generation capabilities right from your mobile device.",
+          "node_type": "group",
+          "title": "● Stable Diffusion Sketch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/LykosAI/StabilityMatrix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652941996,
+                "language": "C#",
+                "last_commit": "2026-08-23T21:35:28Z",
+                "owner": "LykosAI",
+                "repo": "StabilityMatrix",
+                "stars": 8670
+              }
+            }
+          ],
+          "description": "Multi-Platform Package Manager and Inference UI for Stable Diffusion",
+          "node_type": "group",
+          "title": "● Stability Matrix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ai-anchorite/Z-Fusion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111135913,
+                "language": "Python",
+                "last_commit": "2026-08-09T11:57:44Z",
+                "owner": "ai-anchorite",
+                "repo": "Z-Fusion",
+                "stars": 55
+              }
+            }
+          ],
+          "description": "Z-Image, Flux2 Klein, & SeedVR2 with a Gradio UI. Uses a built-in ComfyUI backend for speed and efficiency! [8GB+VRAM, 32GB+ RAM]",
+          "node_type": "group",
+          "title": "● Z-Fusion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Sander-HR/openviz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135777878,
+                "language": "TypeScript",
+                "last_commit": "2026-03-31T09:31:02Z",
+                "owner": "Sander-HR",
+                "repo": "openviz",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "OpenViz is an AI-powered design application that transforms hand-sketched drawings and imported images into photorealistic renders using advanced text-to-image models. Optimized for designers, architects, and product creators, OpenViz provides a fast, intuitive workflow to explore design iterations visually in seconds.",
+          "node_type": "group",
+          "title": "● OpenViz"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/da2el-ai/simple-comfyui-gui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168139285,
+                "language": "Vue",
+                "last_commit": "2026-06-30T15:29:41Z",
+                "owner": "da2el-ai",
+                "repo": "simple-comfyui-gui",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "(Translated from Japanese) I created this tool because I wanted to be able to generate images using ComfyUI from my smartphone while on the go. Unlike my previous \"ComfyUI Simple Interface,\" this version is a desktop application, so it's much easier to use without the hassle of setting up an environment. I have also completely rebuilt and enhanced the frontend features.",
+          "node_type": "group",
+          "title": "● ComfyUI Simple Interface GUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/JaimeIsMe/comfystudio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176355905,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T17:43:46Z",
+                "owner": "VelornLabs",
+                "repo": "velorn",
+                "stars": 446
+              }
+            }
+          ],
+          "description": "ComfyStudio is a desktop animatic, previsualization, and AI-assisted editing tool built around a local ComfyUI workflow. It combines a timeline editor, asset browser, Generate workspace, stock search, LM Studio prompt helper, and export queue in one app.",
+          "node_type": "group",
+          "title": "● ComfyStudio (Electron)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/PurpleDoubleD/locally-uncensored",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191052193,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:36:51Z",
+                "owner": "PurpleDoubleD",
+                "repo": "locally-uncensored",
+                "stars": 1122
+              }
+            }
+          ],
+          "description": "All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.",
+          "node_type": "group",
+          "title": "● Locally Uncensored"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/rookiestar28/ComfyUI-RookieUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206849921,
+                "language": "Python",
+                "last_commit": "2026-08-19T16:56:39Z",
+                "owner": "rookiestar28",
+                "repo": "ComfyUI-RookieUI",
+                "stars": 93
+              }
+            }
+          ],
+          "description": "ComfyUI-RookieUI is a ComfyUI custom node extension that reproduces an A1111/Forge-style sidebar workflow while keeping inference inside native ComfyUI execution. The project target is not only visual similarity. RookieUI aims to reproduce A1111-style workflow semantics for Stable Diffusion in a ComfyUI host",
+          "node_type": "group",
+          "title": "● ComfyUI-RookieUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/pikselkroken/pixlstash",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1074806136,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:47:15Z",
+                "owner": "Pikselkroken",
+                "repo": "pixlstash",
+                "stars": 84
+              }
+            }
+          ],
+          "description": "PixlStash is a local picture library server for organizing, filtering, and reviewing large image collections. Integration with ComfyUI for running workflows on selected images within PixlStash.",
+          "node_type": "group",
+          "title": "● PixlStash"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/hero8152/Infinite-Canvas",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1235082631,
+                "language": "Python",
+                "last_commit": "2026-08-04T15:48:23Z",
+                "owner": "hero8152",
+                "repo": "Infinite-Canvas",
+                "stars": 2908
+              }
+            }
+          ],
+          "description": "Infinite-Canvas is a Chinese-language ComfyUI client that supports both local and Modelscope-hosted inference. It includes a limited set of workflows for image generation, editing, and upscaling.",
+          "node_type": "group",
+          "title": "● Infinite-Canvas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/sandichhuu/ComfyUI-Gradio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1251951264,
+                "language": "Python",
+                "last_commit": "2026-06-11T08:42:58Z",
+                "owner": "sandichhuu",
+                "repo": "ComfyUI-Gradio",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "A Gradio-based web interface for ComfyUI image generation with two model tabs (ZIT and Flux2-Klein-9B) and LoRA support.",
+          "node_type": "group",
+          "title": "● ComfyUI-Gradio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/LastLighter/Dreamifly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1063223732,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T03:37:01Z",
+                "owner": "LastLighter",
+                "repo": "Dreamifly",
+                "stars": 200
+              }
+            }
+          ],
+          "description": "Dreamifly is a Chinese-language AI drawing site template that integrates multiple advanced AI models (such as HiDream-I1, Flux.1-Dev, Stable Diffusion 3.5, Qwen-Image, etc.) to enable fast-start image generation by calling the ComfyUI backend API.",
+          "node_type": "group",
+          "title": "● Dreamifly"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/tonybriant/diffusiondesk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239844822,
+                "language": "JavaScript",
+                "last_commit": "2026-06-16T22:48:47Z",
+                "owner": "tonybriant",
+                "repo": "diffusiondesk",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "DiffusionDesk is a local-first AI image workstation for ComfyUI, featuring a premium glass UI inspired by modern creative software.",
+          "node_type": "group",
+          "title": "● DiffusionDesk"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/tjameswilliams/ai-storyboard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1275526065,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T15:16:18Z",
+                "owner": "tjameswilliams",
+                "repo": "ai-storyboard",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Generate ordered sequences of images with ComfyUI text-to-image models (Ideogram-first), with a structured JSON layout editor and draggable bounding boxes.",
+          "node_type": "group",
+          "title": "● AI Storyboard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/MehranMarxian/OpenLayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276060868,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T16:39:55Z",
+                "owner": "MehranMarxian",
+                "repo": "OpenLayer",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "OpenLayer is a Photoshop UXP plugin that connects to ComfyUI, generates AI images, previews results, and imports them as editable Photoshop layers.",
+          "node_type": "group",
+          "title": "● OpenLayer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ajoesoft/ai0-video-creator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1261361358,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T11:05:32Z",
+                "owner": "ajoesoft",
+                "repo": "ai0-video-creator",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "ai0-video-creator is a premium, full-featured desktop audio-visual content creation suite designed to streamline the enitre process, from writing scripts to generating high-fidelity video assets. Create short dramas, translated videos, vocabulary tutorials, dialogue clips and original stories all in one unified pipeline.",
+          "node_type": "group",
+          "title": "● ai0-video-creator"
+        }
+      ],
+      "title": "Category 3: Use Comfy UI as runner server (worklows made by developers)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/runew0lf/RuinedFooocus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679181871,
+                "language": "Python",
+                "last_commit": "2026-08-12T20:30:03Z",
+                "owner": "runew0lf",
+                "repo": "RuinedFooocus",
+                "stars": 686
+              }
+            }
+          ],
+          "description": "Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!",
+          "node_type": "group",
+          "title": "● RuinedFooocus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/DreamLayer-AI/DreamLayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1006340566,
+                "language": "Python",
+                "last_commit": "2026-04-19T01:42:18Z",
+                "owner": "TheDesignFounder",
+                "repo": "DreamLayer-Eval",
+                "stars": 411
+              }
+            }
+          ],
+          "description": "DreamLayer AI is an open source platform for benchmarking and evaluating diffusion models. It currently supports image generation, with video and audio model benchmarking coming soon. It automates the full workflow from prompts and seeds to metrics and logging, making experiments reproducible by default.",
+          "node_type": "group",
+          "title": "● DreamLayer AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Aatricks/LightDiffusion-Next/tree/main",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902761502,
+                "language": "Python",
+                "last_commit": "2026-04-29T13:36:42Z",
+                "owner": "Aatricks",
+                "repo": "LightDiffusion-Next",
+                "stars": 51
+              }
+            }
+          ],
+          "description": "LightDiffusion-Next is the fastest AI-powered image generation WebUI, combining speed, precision, and flexibility in one cohesive tool.",
+          "node_type": "group",
+          "title": "● LightDiffusion-Next"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/tchr-dev/ComfyStudio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141200022,
+                "language": "TypeScript",
+                "last_commit": "2026-02-05T09:06:06Z",
+                "owner": "tchr-dev",
+                "repo": "ComfyStudio",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "ComfyStudio - Enhanced StableStudio with native ComfyUI integration for local image generation",
+          "node_type": "group",
+          "title": "● ComfyStudio (Node.js, StableStudio fork)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Mooshieblob1/MooshieUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183064071,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T16:55:16Z",
+                "owner": "Mooshieblob1",
+                "repo": "MooshieUI",
+                "stars": 180
+              }
+            }
+          ],
+          "description": "MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two modes:",
+          "node_type": "group",
+          "title": "● MooshieUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/mikehalleen/the-halleen-machine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182052297,
+                "language": "Python",
+                "last_commit": "2026-07-17T14:33:44Z",
+                "owner": "mikehalleen",
+                "repo": "the-halleen-machine",
+                "stars": 18
+              }
+            }
+          ],
+          "description": "Workflow management system for AI video generation using ComfyUI. Organize AI video projects into structured timelines. Create reusable asset libraries for poses, characters, locations, and styles. Batch operations for generation, upscaling, and exports.",
+          "node_type": "group",
+          "title": "● The Halleen Machine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/mat-sz/metastable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717784200,
+                "language": "Python",
+                "last_commit": "2025-04-02T19:00:15Z",
+                "owner": "mat-sz",
+                "repo": "metastable",
+                "stars": 55
+              }
+            }
+          ],
+          "description": "A project-based Stable Diffusion Web UI, for easier organization of generated images. Work in progress.",
+          "node_type": "group",
+          "title": "● Metastable"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/inlineresearch/Inline-Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265908861,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:03:39Z",
+                "owner": "inlineresearch",
+                "repo": "Inline-Studio",
+                "stars": 240
+              }
+            }
+          ],
+          "description": "Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI. It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.",
+          "node_type": "group",
+          "title": "● Inline Studio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/searcc/somni-comfyui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1240235619,
+                "language": "HTML",
+                "last_commit": "2026-08-21T15:14:15Z",
+                "owner": "searcc",
+                "repo": "somni-comfyui",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "somni is a modern and easy to use frontend for ComfyUI made for desktop and mobile. It includes a Gemini-style easy mode, IP-Adapter support, and a mobile-friendly gallery with full-screen viewer.",
+          "node_type": "group",
+          "title": "● somni"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/troesner-clesk/comfy-imagegen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265965999,
+                "language": "Python",
+                "last_commit": "2026-06-11T13:16:46Z",
+                "owner": "troesner-clesk",
+                "repo": "comfy-imagegen",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "ImageGen Studio is a dead-simple local web UI + CLI for ComfyUI — describe an image, get an image. No node graph, no cloud, no account. The goal is to make local image generation usable by people who shouldn't have to learn a node graph to use it.",
+          "node_type": "group",
+          "title": "● ImageGen Studio"
+        }
+      ],
+      "title": "Category 4: Use Comfy backend as a module to use its functions, or very close connection with installed ComfyUI instance"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/diStyApps/ComfyUI-disty-Flow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 873102254,
+                "language": "JavaScript",
+                "last_commit": "2025-01-04T18:03:37Z",
+                "owner": "diStyApps",
+                "repo": "ComfyUI-disty-Flow",
+                "stars": 576
+              }
+            }
+          ],
+          "description": "Flow is a custom node designed to provide user-friendly interface for ComfyUI by acting as an alternative user interface for running workflows. It is not a replacement for workflow creation.",
+          "node_type": "group",
+          "title": "● Flow - Streamlined Way to ComfyUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/rvion/CushyStudio/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607840368,
+                "language": "TypeScript",
+                "last_commit": "2025-07-16T12:31:19Z",
+                "owner": "rvion",
+                "repo": "CushyStudio",
+                "stars": 808
+              }
+            }
+          ],
+          "description": "CushyStudio is the go-to platform for easy generative AI use, empowering creatives of any level to effortlessly create stunning images, videos, and 3D models.",
+          "node_type": "group",
+          "title": "● Cushy Studio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/space-nuko/ComfyBox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623656022,
+                "language": "TypeScript",
+                "last_commit": "2024-01-10T01:02:57Z",
+                "owner": "space-nuko",
+                "repo": "ComfyBox",
+                "stars": 690
+              }
+            }
+          ],
+          "description": "ComfyBox is a frontend to Stable Diffusion that lets you create custom image generation interfaces without any code. It uses ComfyUI under the hood for maximum power and extensibility.",
+          "node_type": "group",
+          "title": "● ComfyBox"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/benchiong/whatsai-client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894195109,
+                "language": "Python",
+                "last_commit": "2024-12-30T07:14:47Z",
+                "owner": "benchiong",
+                "repo": "whatsai-client",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).",
+          "node_type": "group",
+          "title": "● WhatsAI - An easy-to-use UI fully based on ComfyUI."
+        }
+      ],
+      "title": "Abandoned projects - most likely require writting patches to make them work"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:42:59.299Z",
+    "last_updated": "2026-08-24T14:47:26.691Z",
     "original_repository": "light-and-ray/awesome-alternative-uis-for-comfyui",
     "original_repository_id": 1131228006,
     "original_repository_sha": "5152cb99475c4a463c8416c3612e5f3e1e6a2d32",
