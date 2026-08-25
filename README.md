@@ -10,7 +10,7 @@ Here is a collection of alternative UI that use ComfyUI backend for image genera
 
 A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
 
-Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,489 | 🐛 152 | 🌐 C# | 📅 2026-08-25
+Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,492 | 🐛 152 | 🌐 C# | 📅 2026-08-25
 
 ## ● Minimalistic Comfy Wrapper WebUI
 
@@ -36,7 +36,7 @@ An experimental dedicated mobile-first frontend for ComfyUI.
 
 This project operates as a ComfyUI Custom Node that serves a modern, responsive React application. It is designed to make monitoring and managing your ComfyUI workflows and queue easy and accessible from your phone or tablet.
 
-Link: <https://github.com/cosmicbuffalo/comfyui-mobile-frontend> ⭐ 68 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24
+Link: <https://github.com/cosmicbuffalo/comfyui-mobile-frontend> ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25
 
 ## ● ComfyMobileUI
 
@@ -190,7 +190,7 @@ Link: <https://github.com/ViewComfy/ViewComfy> ⭐ 667 | 🐛 12 | 🌐 TypeScri
 
 A mobile-friendly WebUI to run ComfyUI workflows.
 
-Link: <https://github.com/ImDarkTom/ComfyUIMini> ⭐ 389 | 🐛 11 | 🌐 TypeScript | 📅 2025-08-31
+Link: <https://github.com/ImDarkTom/ComfyUIMini> ⚠️ Archived
 
 ## ● Generative AI for Krita (Krita AI diffusion)
 
@@ -198,7 +198,7 @@ Link: <https://github.com/ImDarkTom/ComfyUIMini> ⭐ 389 | 🐛 11 | 🌐 TypeSc
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
-Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,503 | 🐛 93 | 🌐 Python | 📅 2026-08-23
+Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,504 | 🐛 94 | 🌐 Python | 📅 2026-08-23
 
 ## ● Intel AI Playground
 
@@ -206,7 +206,7 @@ Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,503 | 🐛 93 | 🌐 P
 
 AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 
-Link: <https://github.com/intel/AI-Playground> ⭐ 963 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-24
+Link: <https://github.com/intel/AI-Playground> ⭐ 964 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-24
 
 ## ● 🛋️ Comfy App (ComfyUIMobileApp)
 
@@ -372,7 +372,7 @@ Link: <https://nodetool.ai/>
 
 Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
-Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,675 | 🐛 168 | 🌐 C# | 📅 2026-08-23
+Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,682 | 🐛 168 | 🌐 C# | 📅 2026-08-23
 
 ## ● Z-Fusion
 
@@ -404,7 +404,7 @@ Link: <https://github.com/da2el-ai/simple-comfyui-gui> ⭐ 3 | 🐛 0 | 🌐 Vue
 
 ComfyStudio is a desktop animatic, previsualization, and AI-assisted editing tool built around a local ComfyUI workflow. It combines a timeline editor, asset browser, Generate workspace, stock search, LM Studio prompt helper, and export queue in one app.
 
-Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 448 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-19
+Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 449 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-25
 
 ## ● Locally Uncensored
 
@@ -412,7 +412,7 @@ Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 448 | 🐛 20 | 🌐 JavaSc
 
 All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
 
-Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,129 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24
+Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,136 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24
 
 ## ● ComfyUI-RookieUI
 
@@ -436,7 +436,7 @@ Link: <https://github.com/pikselkroken/pixlstash> ⭐ 84 | 🐛 23 | 🌐 Python
 
 Infinite-Canvas is a Chinese-language ComfyUI client that supports both local and Modelscope-hosted inference. It includes a limited set of workflows for image generation, editing, and upscaling.
 
-Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 2,916 | 🐛 144 | 🌐 Python | 📅 2026-08-04
+Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 2,926 | 🐛 144 | 🌐 Python | 📅 2026-08-04
 
 ## ● ComfyUI-Gradio
 
@@ -564,7 +564,7 @@ Link: <https://kingroka.itch.io/deo>
 Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI.
 It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.
 
-Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 240 | 🐛 0 | 🌐 Python | 📅 2026-08-24
+Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 240 | 🐛 0 | 🌐 Python | 📅 2026-08-25
 
 ## ● somni
 
