@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 818118661,
                 "language": "C#",
-                "last_commit": "2026-08-24T07:03:31Z",
+                "last_commit": "2026-08-25T02:01:12Z",
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4487
+                "stars": 4489
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-24T00:52:11Z",
                 "owner": "cosmicbuffalo",
                 "repo": "comfyui-mobile-frontend",
-                "stars": 67
+                "stars": 68
               }
             }
           ],
@@ -105,7 +105,7 @@
                 "last_commit": "2026-05-26T11:50:53Z",
                 "owner": "legal-hkr",
                 "repo": "comfychair",
-                "stars": 181
+                "stars": 182
               }
             }
           ],
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-23T11:02:29Z",
                 "owner": "Acly",
                 "repo": "krita-ai-diffusion",
-                "stars": 10501
+                "stars": 10503
               }
             }
           ],
@@ -485,7 +485,7 @@
                 "last_commit": "2025-10-14T09:30:11Z",
                 "owner": "deni2312",
                 "repo": "ComfyUIMobileApp",
-                "stars": 24
+                "stars": 25
               }
             }
           ],
@@ -724,7 +724,7 @@
                 "archived": false,
                 "id": 940195262,
                 "language": "C#",
-                "last_commit": "2026-08-22T00:28:37Z",
+                "last_commit": "2026-08-25T06:26:49Z",
                 "owner": "MR-444",
                 "repo": "ImageGenerator.MAUI",
                 "stars": 5
@@ -768,7 +768,7 @@
                 "archived": false,
                 "id": 1126004851,
                 "language": "Rust",
-                "last_commit": "2026-08-24T02:18:34Z",
+                "last_commit": "2026-08-25T02:52:43Z",
                 "owner": "EnviralDesign",
                 "repo": "LatentSlate",
                 "stars": 5
@@ -865,7 +865,7 @@
                 "last_commit": "2026-08-23T21:35:28Z",
                 "owner": "LykosAI",
                 "repo": "StabilityMatrix",
-                "stars": 8673
+                "stars": 8675
               }
             }
           ],
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-24T12:36:51Z",
                 "owner": "PurpleDoubleD",
                 "repo": "locally-uncensored",
-                "stars": 1127
+                "stars": 1129
               }
             }
           ],
@@ -1016,7 +1016,7 @@
                 "archived": false,
                 "id": 1074806136,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:09:58Z",
+                "last_commit": "2026-08-25T05:25:54Z",
                 "owner": "Pikselkroken",
                 "repo": "pixlstash",
                 "stars": 84
@@ -1041,7 +1041,7 @@
                 "last_commit": "2026-08-04T15:48:23Z",
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 2909
+                "stars": 2916
               }
             }
           ],
@@ -1286,7 +1286,7 @@
                 "archived": false,
                 "id": 1183064071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:36:54Z",
+                "last_commit": "2026-08-25T06:05:32Z",
                 "owner": "Mooshieblob1",
                 "repo": "MooshieUI",
                 "stars": 180
@@ -1506,7 +1506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:14.312Z",
+    "last_updated": "2026-08-25T06:33:59.657Z",
     "original_repository": "light-and-ray/awesome-alternative-uis-for-comfyui",
     "original_repository_id": 1131228006,
     "original_repository_sha": "5152cb99475c4a463c8416c3612e5f3e1e6a2d32",
