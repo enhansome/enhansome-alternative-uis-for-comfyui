@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T02:01:12Z",
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4501
+                "stars": 4502
               }
             }
           ],
@@ -190,7 +190,7 @@
                 "archived": false,
                 "id": 1185318751,
                 "language": "HTML",
-                "last_commit": "2026-08-24T03:16:31Z",
+                "last_commit": "2026-08-27T05:47:32Z",
                 "owner": "ketle-man",
                 "repo": "ComfyUI-Workflow-Studio",
                 "stars": 8
@@ -278,7 +278,7 @@
                 "archived": false,
                 "id": 1058303995,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:18:45Z",
+                "last_commit": "2026-08-27T11:07:46Z",
                 "owner": "LuqP2",
                 "repo": "Image-MetaHub",
                 "stars": 317
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-26T20:45:55Z",
                 "owner": "Acly",
                 "repo": "krita-ai-diffusion",
-                "stars": 10515
+                "stars": 10516
               }
             }
           ],
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-26T22:34:14Z",
                 "owner": "VelornLabs",
                 "repo": "velorn",
-                "stars": 450
+                "stars": 452
               }
             }
           ],
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-24T12:36:51Z",
                 "owner": "PurpleDoubleD",
                 "repo": "locally-uncensored",
-                "stars": 1150
+                "stars": 1151
               }
             }
           ],
@@ -1041,7 +1041,7 @@
                 "last_commit": "2026-08-04T15:48:23Z",
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 2935
+                "stars": 2941
               }
             }
           ],
@@ -1286,7 +1286,7 @@
                 "archived": false,
                 "id": 1183064071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T20:06:55Z",
+                "last_commit": "2026-08-27T09:15:30Z",
                 "owner": "Mooshieblob1",
                 "repo": "MooshieUI",
                 "stars": 180
@@ -1352,10 +1352,10 @@
                 "archived": false,
                 "id": 1265908861,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:08:38Z",
+                "last_commit": "2026-08-27T09:56:32Z",
                 "owner": "inlineresearch",
                 "repo": "Inline-Studio",
-                "stars": 245
+                "stars": 247
               }
             }
           ],
@@ -1506,9 +1506,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:23:05.611Z",
-    "original_repository": "light-and-ray/awesome-alternative-uis-for-comfyui",
-    "original_repository_id": 1131228006,
+    "last_updated": "2026-08-27T11:20:36.379Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1131228006,
+      "language": null,
+      "last_commit": "2026-07-06T19:58:55Z",
+      "owner": "light-and-ray",
+      "repo": "awesome-alternative-uis-for-comfyui",
+      "stars": 113
+    },
     "original_repository_sha": "5152cb99475c4a463c8416c3612e5f3e1e6a2d32",
     "enhanced_repository": "enhansome/enhansome-alternative-uis-for-comfyui",
     "enhanced_repository_description": null,
