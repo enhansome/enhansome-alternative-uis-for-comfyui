@@ -185,7 +185,7 @@
                 "open_issues": 42,
                 "owner": "Chaoses-Ib",
                 "repo": "ComfyScript",
-                "stars": 701,
+                "stars": 702,
                 "topics": [
                   "comfy-script",
                   "comfyui",
@@ -1289,11 +1289,11 @@
                 "id": 652941996,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:34:38Z",
+                "last_commit": "2026-08-29T03:46:46Z",
                 "open_issues": 159,
                 "owner": "LykosAI",
                 "repo": "StabilityMatrix",
-                "stars": 8699,
+                "stars": 8700,
                 "topics": [
                   "ai",
                   "automatic1111",
@@ -1605,7 +1605,7 @@
                 "open_issues": 144,
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 2953,
+                "stars": 2954,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:54.377Z",
+    "last_updated": "2026-08-29T05:01:12.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of UIs for ComfyUI",

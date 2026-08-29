@@ -60,7 +60,7 @@ Link: <https://github.com/legal-hkr/comfychair> ⭐ 183 | 🐛 11 | 🌐 Kotlin 
 
 A Python frontend and library for ComfyUI
 
-Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 701 | 🐛 42 | 🌐 Python | 📅 2026-07-18
+Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 702 | 🐛 42 | 🌐 Python | 📅 2026-07-18
 
 ## ● WorkflowUI
 
@@ -372,7 +372,7 @@ Link: <https://nodetool.ai/>
 
 Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
-Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,699 | 🐛 159 | 🌐 C# | 📅 2026-08-29
+Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,700 | 🐛 159 | 🌐 C# | 📅 2026-08-29
 
 ## ● Z-Fusion
 
@@ -436,7 +436,7 @@ Link: <https://github.com/pikselkroken/pixlstash> ⭐ 84 | 🐛 23 | 🌐 Python
 
 Infinite-Canvas is a Chinese-language ComfyUI client that supports both local and Modelscope-hosted inference. It includes a limited set of workflows for image generation, editing, and upscaling.
 
-Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 2,953 | 🐛 144 | 🌐 Python | 📅 2026-08-28
+Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 2,954 | 🐛 144 | 🌐 Python | 📅 2026-08-28
 
 ## ● ComfyUI-Gradio
 
