@@ -10,7 +10,7 @@ Here is a collection of alternative UI that use ComfyUI backend for image genera
 
 A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
 
-Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,547 | 🐛 148 | 🌐 C# | 📅 2026-09-09
+Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,549 | 🐛 148 | 🌐 C# | 📅 2026-09-10
 
 ## ● Minimalistic Comfy Wrapper WebUI
 
@@ -52,7 +52,7 @@ Link: <https://github.com/jaeone94/comfy-mobile-ui> ⭐ 95 | 🐛 5 | 🌐 TypeS
 
 ComfyChair provides a streamlined mobile interface for interacting with ComfyUI servers, allowing you to generate and manage AI images and videos directly from your Android device. The app communicates with your ComfyUI server via its API, bringing the power of node-based AI generation to your mobile workflow.
 
-Link: <https://github.com/legal-hkr/comfychair> ⭐ 186 | 🐛 11 | 🌐 Kotlin | 📅 2026-05-26
+Link: <https://github.com/legal-hkr/comfychair> ⭐ 187 | 🐛 12 | 🌐 Kotlin | 📅 2026-05-26
 
 ## ● ComfyScript
 
@@ -60,7 +60,7 @@ Link: <https://github.com/legal-hkr/comfychair> ⭐ 186 | 🐛 11 | 🌐 Kotlin 
 
 A Python frontend and library for ComfyUI
 
-Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 702 | 🐛 42 | 🌐 Python | 📅 2026-07-18
+Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 703 | 🐛 42 | 🌐 Python | 📅 2026-07-18
 
 ## ● WorkflowUI
 
@@ -137,7 +137,7 @@ Link: <https://github.com/LuqP2/Image-MetaHub> ⭐ 319 | 🐛 36 | 🌐 TypeScri
 Spellcaster is a headache-free, expert, private, free and organic local AI generation.
 Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk to the same ComfyUI backend, and every generated asset is visible from every interface.
 
-Link: <https://github.com/laboratoiresonore/spellcaster> ⭐ 58 | 🐛 128 | 🌐 Python | 📅 2026-09-08
+Link: <https://github.com/laboratoiresonore/spellcaster> ⭐ 59 | 🐛 129 | 🌐 Python | 📅 2026-09-10
 
 ## ● ComfyGrid
 
@@ -172,7 +172,7 @@ Link: <https://comfy.getrunpod.io>
 SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder.
 Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.
 
-Link: <https://github.com/biagiomaf/smart-comfyui-gallery> ⭐ 379 | 🐛 4 | 🌐 HTML | 📅 2026-09-08
+Link: <https://github.com/biagiomaf/smart-comfyui-gallery> ⭐ 378 | 🐛 4 | 🌐 HTML | 📅 2026-09-08
 
 # Category 2: UI for workflows exported in API format
 
@@ -198,7 +198,7 @@ Link: <https://github.com/ImDarkTom/ComfyUIMini> ⚠️ Archived
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
-Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,564 | 🐛 100 | 🌐 Python | 📅 2026-08-28
+Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,566 | 🐛 100 | 🌐 Python | 📅 2026-08-28
 
 ## ● Intel AI Playground
 
@@ -287,7 +287,7 @@ Link: <https://github.com/Sorbiers/outsweeper> ⭐ 1 | 🐛 0 | 🌐 TypeScript 
 
 Orange is a minimalist, dynamic web frontend wrapper around ComfyUI. It replaces the complex node-graph interface with a user-friendly, responsive experience that allows anyone to generate, edit, and upscale media via your local ComfyUI instance without knowing the node-spaghetti underneath.
 
-Link: <https://github.com/saintbrodie/Orange> ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-09
+Link: <https://github.com/saintbrodie/Orange> ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-09-10
 
 ## ● 🔗 LINK: The Ultimate Discord-ComfyUI Bridge
 
@@ -348,7 +348,7 @@ Link: <https://github.com/Arif-salah/comfygen-studio> ⭐ 14 | 🐛 0 | 🌐 Jav
 
 This is a yet another frontend for ComfyUI to make it actually not so painful to use. It's designed after AUTOMATIC1111 Web UI and is mobile-friendly. Not "mobile first" really but I check it there often and improve UX.
 
-Link: <https://github.com/SD-inst/cozyui> ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
+Link: <https://github.com/SD-inst/cozyui> ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10
 
 ## ● Stable Diffusion Sketch
 
@@ -372,7 +372,7 @@ Link: <https://nodetool.ai/>
 
 Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
-Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,753 | 🐛 163 | 🌐 C# | 📅 2026-08-31
+Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,757 | 🐛 163 | 🌐 C# | 📅 2026-08-31
 
 ## ● Z-Fusion
 
@@ -404,7 +404,7 @@ Link: <https://github.com/da2el-ai/simple-comfyui-gui> ⭐ 3 | 🐛 0 | 🌐 Vue
 
 ComfyStudio is a desktop animatic, previsualization, and AI-assisted editing tool built around a local ComfyUI workflow. It combines a timeline editor, asset browser, Generate workspace, stock search, LM Studio prompt helper, and export queue in one app.
 
-Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 472 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-31
+Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 473 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-10
 
 ## ● Locally Uncensored
 
@@ -412,7 +412,7 @@ Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 472 | 🐛 24 | 🌐 JavaSc
 
 All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
 
-Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,527 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-08
+Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,557 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10
 
 ## ● ComfyUI-RookieUI
 
@@ -420,7 +420,7 @@ Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,527 | 🐛 5 |
 
 ComfyUI-RookieUI is a ComfyUI custom node extension that reproduces an A1111/Forge-style sidebar workflow while keeping inference inside native ComfyUI execution. The project target is not only visual similarity. RookieUI aims to reproduce A1111-style workflow semantics for Stable Diffusion in a ComfyUI host
 
-Link: <https://github.com/rookiestar28/ComfyUI-RookieUI> ⭐ 92 | 🐛 2 | 🌐 Python | 📅 2026-09-09
+Link: <https://github.com/rookiestar28/ComfyUI-RookieUI> ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2026-09-10
 
 ## ● PixlStash
 
@@ -428,7 +428,7 @@ Link: <https://github.com/rookiestar28/ComfyUI-RookieUI> ⭐ 92 | 🐛 2 | 🌐 
 
 PixlStash is a local picture library server for organizing, filtering, and reviewing large image collections. Integration with ComfyUI for running workflows on selected images within PixlStash.
 
-Link: <https://github.com/pikselkroken/pixlstash> ⭐ 86 | 🐛 31 | 🌐 Python | 📅 2026-09-09
+Link: <https://github.com/pikselkroken/pixlstash> ⭐ 86 | 🐛 30 | 🌐 Python | 📅 2026-09-11
 
 ## ● Infinite-Canvas
 
@@ -436,7 +436,7 @@ Link: <https://github.com/pikselkroken/pixlstash> ⭐ 86 | 🐛 31 | 🌐 Python
 
 Infinite-Canvas is a Chinese-language ComfyUI client that supports both local and Modelscope-hosted inference. It includes a limited set of workflows for image generation, editing, and upscaling.
 
-Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 3,042 | 🐛 143 | 🌐 Python | 📅 2026-08-28
+Link: <https://github.com/hero8152/Infinite-Canvas> ⭐ 3,045 | 🐛 143 | 🌐 Python | 📅 2026-08-28
 
 ## ● ComfyUI-Gradio
 
@@ -476,7 +476,7 @@ Link: <https://github.com/tjameswilliams/ai-storyboard> ⭐ 4 | 🐛 0 | 🌐 Ty
 
 OpenLayer is a Photoshop UXP plugin that drives a local ComfyUI server and imports results into the open document as real, editable Photoshop layers. Text to image, image to image, sketch to image, inpaint, outpaint, upscale, live painting, style and multi-reference composition, and Unflatten - which splits one flat layer back into separate layers with real alpha, shown above. Free, MIT, runs entirely on your own GPU.
 
-Link: <https://github.com/MehranMarxian/OpenLayer> ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
+Link: <https://github.com/MehranMarxian/OpenLayer> ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10
 
 ## ● ai0-video-creator
 
@@ -495,7 +495,7 @@ Link: <https://github.com/ajoesoft/ai0-video-creator> ⭐ 16 | 🐛 0 | 🌐 Typ
 
 Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!
 
-Link: <https://github.com/runew0lf/RuinedFooocus> ⭐ 698 | 🐛 24 | 🌐 Python | 📅 2026-09-05
+Link: <https://github.com/runew0lf/RuinedFooocus> ⭐ 699 | 🐛 24 | 🌐 Python | 📅 2026-09-05
 
 ## ● DreamLayer AI
 
@@ -503,7 +503,7 @@ Link: <https://github.com/runew0lf/RuinedFooocus> ⭐ 698 | 🐛 24 | 🌐 Pytho
 
 DreamLayer AI is an open source platform for benchmarking and evaluating diffusion models. It currently supports image generation, with video and audio model benchmarking coming soon. It automates the full workflow from prompts and seeds to metrics and logging, making experiments reproducible by default.
 
-Link: <https://github.com/DreamLayer-AI/DreamLayer> ⭐ 410 | 🐛 74 | 🌐 Python | 📅 2026-09-09
+Link: <https://github.com/DreamLayer-AI/DreamLayer> ⭐ 411 | 🐛 74 | 🌐 Python | 📅 2026-09-09
 
 ## ● LightDiffusion-Next
 
@@ -530,7 +530,7 @@ MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two mode
 * Desktop app mode via Tauri (Windows/Linux, macOS source build)
 * Browser/server mode via the built-in web server (LAN/Docker friendly, mobile-friendly UI)
 
-Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 193 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-09
+Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 195 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-10
 
 ## ● The Halleen Machine
 
@@ -564,7 +564,7 @@ Link: <https://kingroka.itch.io/deo>
 Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI.
 It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.
 
-Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 294 | 🐛 0 | 🌐 Python | 📅 2026-09-08
+Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 294 | 🐛 0 | 🌐 Python | 📅 2026-09-10
 
 ## ● somni
 
@@ -622,4 +622,4 @@ Link: <https://github.com/benchiong/whatsai-client> ⭐ 10 | 🐛 1 | 🌐 Pytho
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
