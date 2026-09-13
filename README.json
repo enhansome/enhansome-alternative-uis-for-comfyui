@@ -17,11 +17,11 @@
                 "id": 818118661,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:50:12Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-12T08:08:18Z",
+                "open_issues": 148,
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4549,
+                "stars": 4552,
                 "topics": [
                   "ai",
                   "comfyui",
@@ -129,7 +129,7 @@
                 "open_issues": 5,
                 "owner": "jaeone94",
                 "repo": "comfy-mobile-ui",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -403,11 +403,11 @@
                 "id": 1058303995,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-12T00:10:06Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-12T08:03:15Z",
+                "open_issues": 36,
                 "owner": "LuqP2",
                 "repo": "Image-MetaHub",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "3d-viewer",
                   "a1111",
@@ -452,8 +452,8 @@
                 "id": 1197751536,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T13:27:10Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-12T16:14:25Z",
+                "open_issues": 130,
                 "owner": "laboratoiresonore",
                 "repo": "spellcaster",
                 "stars": 59,
@@ -563,7 +563,7 @@
                 "open_issues": 4,
                 "owner": "biagiomaf",
                 "repo": "smart-comfyui-gallery",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "comfyui",
                   "comfyui-gallery",
@@ -581,6 +581,47 @@
           "description": "SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder. Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.",
           "node_type": "group",
           "title": "● SmartGallery DAM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/IvenKooLab/comfy-agent",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Local-first visual studio for ComfyUI — pure-stdlib Python + vanilla JS, zero dependencies, single 10 MB exe",
+                "homepage": null,
+                "id": 1351180987,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-12T08:15:36Z",
+                "open_issues": 0,
+                "owner": "IvenKooLab",
+                "repo": "comfy-agent",
+                "stars": 3,
+                "topics": [
+                  "ai-art",
+                  "comfyui",
+                  "comfyui-gui",
+                  "desktop-app",
+                  "flux",
+                  "image-generation",
+                  "minimax-h3",
+                  "python",
+                  "pywebview",
+                  "vanilla-js",
+                  "video-generation",
+                  "zero-dependency"
+                ]
+              },
+              "first_seen": "2026-09-13T00:03:37.046Z"
+            }
+          ],
+          "description": "A local-first desktop studio for ComfyUI - a native window (pywebview + tray) that drives your local ComfyUI instance end to end: prompt-to-image/video creation with automatic Chinese-to-English prompt enhancement, a gallery, a visual workflow editor, 600+ official workflow templates with automatic subgraph flattening and one-click loading, a model manager with preset suites and one-click downloads, batch pipelines for episodic video production, and an MCP server / function-calling assistant so external agents can drive it too. Pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe.",
+          "node_type": "group",
+          "title": "● ComfyAgent"
         }
       ],
       "title": "Category 1: Close integration, work with the same workflows"
@@ -678,7 +719,7 @@
                 "open_issues": 100,
                 "owner": "Acly",
                 "repo": "krita-ai-diffusion",
-                "stars": 10570,
+                "stars": 10574,
                 "topics": [
                   "generative-ai",
                   "krita-plugin",
@@ -707,10 +748,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T23:32:17Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "intel",
                 "repo": "AI-Playground",
-                "stars": 976,
+                "stars": 977,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -1048,11 +1089,11 @@
                 "id": 1220165028,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T21:43:49Z",
+                "last_commit": "2026-09-12T21:25:05Z",
                 "open_issues": 0,
                 "owner": "nvmax",
                 "repo": "Link",
-                "stars": 3,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -1132,7 +1173,7 @@
                 "id": 1126004851,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:42:14Z",
+                "last_commit": "2026-09-12T03:43:25Z",
                 "open_issues": 0,
                 "owner": "EnviralDesign",
                 "repo": "LatentSlate",
@@ -1206,7 +1247,7 @@
                 "id": 915775423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:53:31Z",
+                "last_commit": "2026-09-12T18:10:49Z",
                 "open_issues": 0,
                 "owner": "SD-inst",
                 "repo": "cozyui",
@@ -1286,7 +1327,7 @@
                 "open_issues": 164,
                 "owner": "LykosAI",
                 "repo": "StabilityMatrix",
-                "stars": 8763,
+                "stars": 8768,
                 "topics": [
                   "ai",
                   "automatic1111",
@@ -1324,7 +1365,7 @@
                 "open_issues": 0,
                 "owner": "ai-anchorite",
                 "repo": "Z-Fusion",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "pinokio"
                 ]
@@ -1424,7 +1465,7 @@
                 "open_issues": 24,
                 "owner": "VelornLabs",
                 "repo": "velorn",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "ai-video",
                   "comfyui",
@@ -1461,7 +1502,7 @@
                 "open_issues": 5,
                 "owner": "PurpleDoubleD",
                 "repo": "locally-uncensored",
-                "stars": 1578,
+                "stars": 1597,
                 "topics": [
                   "agent",
                   "ai-chat",
@@ -1545,7 +1586,7 @@
                 "id": 1074806136,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T06:10:32Z",
+                "last_commit": "2026-09-12T09:54:34Z",
                 "open_issues": 27,
                 "owner": "Pikselkroken",
                 "repo": "pixlstash",
@@ -1598,7 +1639,7 @@
                 "open_issues": 143,
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 3051,
+                "stars": 3056,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -1761,7 +1802,7 @@
                 "open_issues": 0,
                 "owner": "MehranMarxian",
                 "repo": "OpenLayer",
-                "stars": 16,
+                "stars": 18,
                 "topics": [
                   "adobe-uxp",
                   "ai-art",
@@ -1994,11 +2035,11 @@
                 "id": 1183064071,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T21:44:05Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-12T10:45:50Z",
+                "open_issues": 13,
                 "owner": "Mooshieblob1",
                 "repo": "MooshieUI",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "ai-art",
                   "comfyui",
@@ -2349,7 +2390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:22:52.799Z",
+    "last_updated": "2026-09-13T00:03:37.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of UIs for ComfyUI",
@@ -2357,8 +2398,8 @@
       "id": 1131228006,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-06T01:03:09Z",
-      "open_issues": 24,
+      "last_commit": "2026-09-12T22:12:54Z",
+      "open_issues": 23,
       "owner": "light-and-ray",
       "repo": "awesome-alternative-uis-for-comfyui",
       "stars": 115,
@@ -2373,7 +2414,7 @@
         "video-generation"
       ]
     },
-    "original_repository_sha": "b7b15e1dd6cfa125ef0596a40af8a0df9d4308f6",
+    "original_repository_sha": "9cf834f66b5b9c72ad8e506af654fc31bfe79d18",
     "enhanced_repository": "enhansome/enhansome-alternative-uis-for-comfyui",
     "enhanced_repository_description": null,
     "title": "Awesome Alternative UIs for ComfyUI with stars"
