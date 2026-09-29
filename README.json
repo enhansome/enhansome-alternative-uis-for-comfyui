@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-24T13:41:41Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4613,
+                "stars": 4614,
                 "topics": [
                   "ai",
                   "comfyui",
@@ -59,7 +59,7 @@
                 "open_issues": 12,
                 "owner": "light-and-ray",
                 "repo": "Minimalistic-Comfy-Wrapper-WebUI",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -97,11 +97,11 @@
                 "id": 1134086969,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T06:38:35Z",
+                "last_commit": "2026-09-28T06:29:35Z",
                 "open_issues": 0,
                 "owner": "cosmicbuffalo",
                 "repo": "comfyui-mobile-frontend",
-                "stars": 88,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -276,7 +276,7 @@
                 "open_issues": 0,
                 "owner": "ketle-man",
                 "repo": "ComfyUI-Workflow-Studio",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -304,7 +304,7 @@
                 "open_issues": 0,
                 "owner": "JpAndreBTA",
                 "repo": "Nexus-BTA",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -361,15 +361,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "Local-first image studio for generating, reviewing, and organizing AI images through Codex.",
-                "homepage": "https://gvastethecreator.github.io/codex-studio/",
+                "homepage": "https://gvastethecreator.github.io/cozy-studio/",
                 "id": 1231523338,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T00:53:38Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-29T01:39:03Z",
+                "open_issues": 3,
                 "owner": "gvastethecreator",
-                "repo": "codex-studio",
-                "stars": 16,
+                "repo": "cozy-studio",
+                "stars": 17,
                 "topics": [
                   "bun",
                   "codex",
@@ -403,11 +403,11 @@
                 "id": 1058303995,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-27T22:05:06Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-28T19:46:52Z",
+                "open_issues": 32,
                 "owner": "LuqP2",
                 "repo": "Image-MetaHub",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "3d-viewer",
                   "a1111",
@@ -452,8 +452,8 @@
                 "id": 1197751536,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T16:11:27Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-28T16:28:12Z",
+                "open_issues": 9,
                 "owner": "laboratoiresonore",
                 "repo": "spellcaster",
                 "stars": 60,
@@ -600,7 +600,7 @@
                 "open_issues": 0,
                 "owner": "IvenKooLab",
                 "repo": "comfy-agent",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "ai-art",
                   "ai-video",
@@ -650,7 +650,7 @@
                 "open_issues": 12,
                 "owner": "ViewComfy",
                 "repo": "ViewComfy",
-                "stars": 670,
+                "stars": 672,
                 "topics": [
                   "comfy",
                   "comfyui",
@@ -719,10 +719,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-27T11:03:01Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "Acly",
                 "repo": "krita-ai-diffusion",
-                "stars": 10643,
+                "stars": 10649,
                 "topics": [
                   "generative-ai",
                   "krita-plugin",
@@ -751,7 +751,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-21T04:28:25Z",
-                "open_issues": 142,
+                "open_issues": 135,
                 "owner": "intel",
                 "repo": "AI-Playground",
                 "stars": 988,
@@ -922,8 +922,8 @@
                 "id": 1146530046,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-26T10:04:25Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-28T06:24:44Z",
+                "open_issues": 98,
                 "owner": "rioX432",
                 "repo": "CivitDeck",
                 "stars": 12,
@@ -1061,7 +1061,7 @@
                 "open_issues": 0,
                 "owner": "saintbrodie",
                 "repo": "Orange",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "ai",
                   "comfyui",
@@ -1287,10 +1287,10 @@
                 "language": "C#",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-16T02:32:01Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "LykosAI",
                 "repo": "StabilityMatrix",
-                "stars": 8844,
+                "stars": 8851,
                 "topics": [
                   "ai",
                   "automatic1111",
@@ -1428,7 +1428,7 @@
                 "open_issues": 27,
                 "owner": "VelornLabs",
                 "repo": "velorn",
-                "stars": 489,
+                "stars": 491,
                 "topics": [
                   "ai-video",
                   "comfyui",
@@ -1461,11 +1461,11 @@
                 "id": 1191052193,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T19:29:32Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-28T19:48:51Z",
+                "open_issues": 9,
                 "owner": "PurpleDoubleD",
                 "repo": "locally-uncensored",
-                "stars": 1817,
+                "stars": 1825,
                 "topics": [
                   "agent",
                   "ai-chat",
@@ -1549,8 +1549,8 @@
                 "id": 1074806136,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T17:27:04Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-28T21:21:06Z",
+                "open_issues": 42,
                 "owner": "Pikselkroken",
                 "repo": "pixlstash",
                 "stars": 89,
@@ -1602,7 +1602,7 @@
                 "open_issues": 141,
                 "owner": "hero8152",
                 "repo": "Infinite-Canvas",
-                "stars": 3104,
+                "stars": 3106,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -1691,7 +1691,7 @@
                 "open_issues": 0,
                 "owner": "tonybriant",
                 "repo": "diffusiondesk",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "agents",
                   "ai",
@@ -1857,7 +1857,7 @@
                 "open_issues": 24,
                 "owner": "runew0lf",
                 "repo": "RuinedFooocus",
-                "stars": 706,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -1885,7 +1885,7 @@
                 "open_issues": 74,
                 "owner": "TheDesignFounder",
                 "repo": "DreamLayer-Eval",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "benchmarking",
                   "diffusion-models",
@@ -2000,11 +2000,11 @@
                 "id": 1183064071,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T10:10:47Z",
+                "last_commit": "2026-09-28T03:36:45Z",
                 "open_issues": 15,
                 "owner": "Mooshieblob1",
                 "repo": "MooshieUI",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "ai-art",
                   "comfyui",
@@ -2101,11 +2101,11 @@
                 "id": 1265908861,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T17:26:26Z",
+                "last_commit": "2026-09-28T05:56:18Z",
                 "open_issues": 1,
                 "owner": "omnichar",
                 "repo": "OmniChar",
-                "stars": 425,
+                "stars": 450,
                 "topics": [
                   "ai-art",
                   "ai-film",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "searcc",
                 "repo": "somni-comfyui",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:06.355Z"
@@ -2300,7 +2300,7 @@
                 "open_issues": 84,
                 "owner": "space-nuko",
                 "repo": "ComfyBox",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "stable-diffusion"
                 ]
@@ -2355,7 +2355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:54:19.126Z",
+    "last_updated": "2026-09-29T02:04:31.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of UIs for ComfyUI",
@@ -2364,7 +2364,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-22T23:24:51Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "light-and-ray",
       "repo": "awesome-alternative-uis-for-comfyui",
       "stars": 118,
