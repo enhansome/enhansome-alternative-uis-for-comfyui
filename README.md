@@ -172,7 +172,7 @@ Link: <https://comfy.getrunpod.io>
 SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder.
 Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.
 
-Link: <https://github.com/biagiomaf/smart-comfyui-gallery> ⭐ 386 | 🐛 4 | 🌐 HTML | 📅 2026-09-17
+Link: <https://github.com/biagiomaf/smart-comfyui-gallery> ⭐ 387 | 🐛 4 | 🌐 HTML | 📅 2026-09-17
 
 ## ● ComfyAgent
 
@@ -188,7 +188,7 @@ Link: <https://github.com/IvenKooLab/comfy-agent> ⭐ 26 | 🐛 0 | 🌐 Python 
 
 Vlo is a free, local, open source video editor with AI features. It has a live bridge to ComfyUI, to run any possible ComfyUI workflow, and it includes bespoke workflows tailored for using AI models to edit live on the timeline.
 
-Link: <https://github.com/PxTicks/vlo> ⭐ 202 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-30
+Link: <https://github.com/PxTicks/vlo> ⭐ 203 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-30
 
 ## ● Noofy
 
@@ -319,7 +319,7 @@ Link: <https://github.com/Sorbiers/outsweeper> ⭐ 1 | 🐛 0 | 🌐 TypeScript 
 
 Orange is a minimalist, dynamic web frontend wrapper around ComfyUI. It replaces the complex node-graph interface with a user-friendly, responsive experience that allows anyone to generate, edit, and upscale media via your local ComfyUI instance without knowing the node-spaghetti underneath.
 
-Link: <https://github.com/saintbrodie/Orange> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-02
+Link: <https://github.com/saintbrodie/Orange> ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
 ## ● 🔗 LINK: The Ultimate Discord-ComfyUI Bridge
 
@@ -492,7 +492,7 @@ Link: <https://nodetool.ai/>
 
 Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
-Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,863 | 🐛 180 | 🌐 C# | 📅 2026-10-01
+Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 8,864 | 🐛 180 | 🌐 C# | 📅 2026-10-01
 
 ## ● Z-Fusion
 
@@ -532,7 +532,7 @@ Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 495 | 🐛 27 | 🌐 JavaSc
 
 All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
 
-Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,896 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-02
+Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 1,898 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-02
 
 ## ● ComfyUI-RookieUI
 
@@ -629,7 +629,7 @@ Link: <https://github.com/Gartyl/Gartys-Architect> ⭐ 0 | 🐛 0 | 🌐 PHP | �
 
 FlixML Studio is a media generation workbench. It runs image and video generation through ComfyUI workflows, trains LoRAs, and exposes everything through a clean React UI for browsing, organizing, and queuing work. Jobs are tracked from queue to completion, routed across GPU providers, and organized into projects, scenes, and shots with persistent characters.
 
-Link: <https://github.com/ortegarod/flixml> ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03
+Link: <https://github.com/ortegarod/flixml> ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-03
 
 # Category 4: Use Comfy backend as a module to use its functions, or very close connection with installed ComfyUI instance
 
@@ -674,7 +674,7 @@ MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two mode
 * Desktop app mode via Tauri (Windows/Linux, macOS source build)
 * Browser/server mode via the built-in web server (LAN/Docker friendly, mobile-friendly UI)
 
-Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 204 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-02
+Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 204 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-03
 
 ## ● The Halleen Machine
 
