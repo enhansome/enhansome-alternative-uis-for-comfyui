@@ -10,7 +10,7 @@ Here is a collection of alternative UI that use ComfyUI backend for image genera
 
 A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
 
-Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,804 | 🐛 158 | 🌐 C# | 📅 2026-11-12
+Link: <https://github.com/mcmonkeyprojects/SwarmUI> ⭐ 4,807 | 🐛 155 | 🌐 C# | 📅 2026-11-22
 
 ## ● Minimalistic Comfy Wrapper WebUI
 
@@ -52,7 +52,7 @@ Link: <https://github.com/jaeone94/comfy-mobile-ui> ⭐ 99 | 🐛 5 | 🌐 TypeS
 
 ComfyChair provides a streamlined mobile interface for interacting with ComfyUI servers, allowing you to generate and manage AI images and videos directly from your Android device. The app communicates with your ComfyUI server via its API, bringing the power of node-based AI generation to your mobile workflow.
 
-Link: <https://github.com/legal-hkr/comfychair> ⭐ 219 | 🐛 3 | 🌐 Kotlin | 📅 2026-11-09
+Link: <https://github.com/legal-hkr/comfychair> ⭐ 219 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-22
 
 ## ● ComfyScript
 
@@ -60,7 +60,7 @@ Link: <https://github.com/legal-hkr/comfychair> ⭐ 219 | 🐛 3 | 🌐 Kotlin |
 
 A Python frontend and library for ComfyUI
 
-Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 707 | 🐛 42 | 🌐 Python | 📅 2026-07-18
+Link: <https://github.com/Chaoses-Ib/ComfyScript> ⭐ 708 | 🐛 42 | 🌐 Python | 📅 2026-07-18
 
 ## ● WorkflowUI
 
@@ -128,7 +128,7 @@ Link: <https://github.com/gvastethecreator/codex-studio>
 Image MetaHub is a desktop app for browsing large local libraries of AI outputs without uploading anything to the cloud.
 It scans your folders, extracts metadata from popular generators, caches results for fast reuse, and lets you filter by prompt, model, LoRA, sampler, seed, dimensions, telemetry, tags, and more.
 
-Link: <https://github.com/LuqP2/Image-MetaHub> ⭐ 339 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-20
+Link: <https://github.com/LuqP2/Image-MetaHub> ⭐ 339 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-22
 
 ## ● Spellcaster
 
@@ -137,7 +137,7 @@ Link: <https://github.com/LuqP2/Image-MetaHub> ⭐ 339 | 🐛 35 | 🌐 TypeScri
 Spellcaster is a headache-free, expert, private, free and organic local AI generation.
 Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk to the same ComfyUI backend, and every generated asset is visible from every interface.
 
-Link: <https://github.com/laboratoiresonore/spellcaster> ⭐ 61 | 🐛 34 | 🌐 Python | 📅 2026-11-20
+Link: <https://github.com/laboratoiresonore/spellcaster> ⭐ 61 | 🐛 35 | 🌐 Python | 📅 2026-11-22
 
 ## ● ComfyGrid
 
@@ -230,7 +230,7 @@ Link: <https://github.com/ImDarkTom/ComfyUIMini> ⚠️ Archived
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
-Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,923 | 🐛 139 | 🌐 Python | 📅 2026-11-21
+Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,930 | 🐛 139 | 🌐 Python | 📅 2026-11-21
 
 ## ● Intel AI Playground
 
@@ -238,7 +238,7 @@ Link: <https://github.com/Acly/krita-ai-diffusion> ⭐ 10,923 | 🐛 139 | 🌐 
 
 AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 
-Link: <https://github.com/intel/AI-Playground> ⭐ 1,043 | 🐛 122 | 🌐 TypeScript | 📅 2026-10-30
+Link: <https://github.com/intel/AI-Playground> ⭐ 1,044 | 🐛 122 | 🌐 TypeScript | 📅 2026-10-30
 
 ## ● 🛋️ Comfy App (ComfyUIMobileApp)
 
@@ -286,7 +286,7 @@ Link: <https://github.com/Arif-salah/Nexa_comfyui> ⭐ 26 | 🐛 1 | 🌐 JavaSc
 
 CivitAI mobile client for Android & iOS — built with Kotlin Multiplatform (KMP). ComfyUI & SD WebUI Integration — send models to ComfyUI or Automatic1111/Forge, manage the generation queue, browse generation history, import custom workflows, and use LoRA/ControlNet support
 
-Link: <https://github.com/rioX432/CivitDeck> ⭐ 21 | 🐛 79 | 🌐 Kotlin | 📅 2026-11-21
+Link: <https://github.com/rioX432/CivitDeck> ⭐ 21 | 🐛 63 | 🌐 Kotlin | 📅 2026-11-22
 
 ## ● ComfyUI Skills for OpenClaw
 
@@ -433,7 +433,7 @@ Link: <https://github.com/alexisrolland/ComfyUI-Blender> ⭐ 225 | 🐛 13 | �
 
 Build workflows in code with autocomplete on every node and model of your exact install. Run them on any host, from the box under your desk to a cloud GPU, and get the images straight back into your code. Drive them from a terminal UI with live latent previews, or from a browser panel that turns every workflow into a form — on your desk or on your phone.
 
-Link: <https://github.com/rvion/comfy-ts> ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21
+Link: <https://github.com/rvion/comfy-ts> ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21
 
 ## ● EasyAI
 
@@ -441,7 +441,7 @@ Link: <https://github.com/rvion/comfy-ts> ⭐ 24 | 🐛 0 | 🌐 TypeScript | �
 
 A simple, beginner-friendly desktop app that puts ComfyUI's AI image and video generation behind one easy interface — pick a style, type a prompt, press Create. Includes a one-click installer that sets up ComfyUI and all required models automatically.
 
-Link: <https://github.com/Garionhk/EasyAI> ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-10-29
+Link: <https://github.com/Garionhk/EasyAI> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-10-29
 
 ## ● TakeBoard
 
@@ -457,7 +457,7 @@ Link: <https://github.com/Fourques/Takeboard> ⭐ 19 | 🐛 1 | 🌐 TypeScript 
 
 An image-first, free & open source front end for ComfyUI, with zero setup. 28 built-in image and video model families, LoRA stacks, upscale, reference images and an actually good phone mode all work out of the box. Import your own workflows, reach it from other devices over LAN, and keep private images in a locked "Hidden" section.
 
-Link: <https://github.com/tristmeister/HEISS-UI> ⭐ 84 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17
+Link: <https://github.com/tristmeister/HEISS-UI> ⭐ 85 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
@@ -500,7 +500,7 @@ Link: <https://nodetool.ai/>
 
 Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
-Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 9,064 | 🐛 183 | 🌐 C# | 📅 2026-11-22
+Link: <https://github.com/LykosAI/StabilityMatrix> ⭐ 9,069 | 🐛 183 | 🌐 C# | 📅 2026-11-22
 
 ## ● Z-Fusion
 
@@ -524,7 +524,7 @@ Link: <https://github.com/Sander-HR/openviz> ⭐ 7 | 🐛 0 | 🌐 TypeScript | 
 
 (Translated from Japanese) I created this tool because I wanted to be able to generate images using ComfyUI from my smartphone while on the go. Unlike my previous "ComfyUI Simple Interface," this version is a desktop application, so it's much easier to use without the hassle of setting up an environment. I have also completely rebuilt and enhanced the frontend features.
 
-Link: <https://github.com/da2el-ai/simple-comfyui-gui> ⭐ 3 | 🐛 0 | 🌐 Vue | 📅 2026-10-10
+Link: <https://github.com/da2el-ai/simple-comfyui-gui> ⭐ 4 | 🐛 0 | 🌐 Vue | 📅 2026-10-10
 
 ## ● ComfyStudio (Electron)
 
@@ -540,7 +540,7 @@ Link: <https://github.com/JaimeIsMe/comfystudio> ⭐ 542 | 🐛 26 | 🌐 JavaSc
 
 All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
 
-Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 4,551 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-22
+Link: <https://github.com/PurpleDoubleD/locally-uncensored> ⭐ 4,601 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-22
 
 ## ● ComfyUI-RookieUI
 
@@ -556,7 +556,7 @@ Link: <https://github.com/rookiestar28/ComfyUI-RookieUI> ⭐ 98 | 🐛 4 | 🌐 
 
 PixlStash is a local picture library server for organizing, filtering, and reviewing large image collections. Integration with ComfyUI for running workflows on selected images within PixlStash.
 
-Link: <https://github.com/pikselkroken/pixlstash> ⭐ 146 | 🐛 37 | 🌐 Python | 📅 2026-11-21
+Link: <https://github.com/pikselkroken/pixlstash> ⭐ 149 | 🐛 34 | 🌐 Python | 📅 2026-11-22
 
 ## ● Infinite-Canvas
 
@@ -604,7 +604,7 @@ Link: <https://github.com/tjameswilliams/ai-storyboard> ⭐ 4 | 🐛 0 | 🌐 Ty
 
 OpenLayer is a Photoshop UXP plugin that drives a local ComfyUI server and imports results into the open document as real, editable Photoshop layers. Text to image, image to image, sketch to image, inpaint, outpaint, upscale, live painting, style and multi-reference composition, and Unflatten - which splits one flat layer back into separate layers with real alpha, shown above. Free, MIT, runs entirely on your own GPU.
 
-Link: <https://github.com/MehranMarxian/OpenLayer> ⭐ 57 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21
+Link: <https://github.com/MehranMarxian/OpenLayer> ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22
 
 ## ● ai0-video-creator
 
@@ -621,7 +621,7 @@ Link: <https://github.com/ajoesoft/ai0-video-creator> ⭐ 21 | 🐛 0 | 🌐 Typ
 
 FooocusPlus is a community-developed AI image generation program that makes creating stunning works of art easier than ever. FooocusPlus runs offline on your computer and is completely free! Now you can have your very own Stable Diffusion or Midjourney that helps turn your creative ideas into beautiful images without any technical skills.
 
-Link: <https://github.com/DavidDragonsage/FooocusPlus> ⭐ 139 | 🐛 53 | 🌐 Python | 📅 2026-10-26
+Link: <https://github.com/DavidDragonsage/FooocusPlus> ⭐ 139 | 🐛 52 | 🌐 Python | 📅 2026-11-22
 
 ## ● 🏢 Garty's Architect
 
@@ -629,7 +629,7 @@ Link: <https://github.com/DavidDragonsage/FooocusPlus> ⭐ 139 | 🐛 53 | 🌐 
 
 Your ultimate local desktop interface for orchestrating AI models. Built to bridge the gap between the raw, limitless power of ComfyUI / Ollama and the clean, focused experience of a professional design studio.
 
-Link: <https://github.com/Gartyl/Gartys-Architect> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-11-21
+Link: <https://github.com/Gartyl/Gartys-Architect> ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-11-22
 
 ## ● FlixML
 
@@ -698,7 +698,7 @@ MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two mode
 * Desktop app mode via Tauri (Windows/Linux, macOS source build)
 * Browser/server mode via the built-in web server (LAN/Docker friendly, mobile-friendly UI)
 
-Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 231 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21
+Link: <https://github.com/Mooshieblob1/MooshieUI> ⭐ 232 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22
 
 ## ● The Halleen Machine
 
@@ -732,7 +732,7 @@ Link: <https://kingroka.itch.io/deo>
 Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI.
 It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.
 
-Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 589 | 🐛 2 | 🌐 Python | 📅 2026-10-29
+Link: <https://github.com/inlineresearch/Inline-Studio> ⭐ 590 | 🐛 2 | 🌐 Python | 📅 2026-10-29
 
 ## ● somni
 
@@ -766,7 +766,7 @@ Link: <https://github.com/arenasys/qComfy> ⭐ 3 | 🐛 0 | 🌐 QML | 📅 2026
 
 SugarSubstitute is the Qt front-end for ComfyUI built for people who love what a graph can do and would rather not spend all day untangling one. If ComfyUI can run a model, you can bring it into SugarSubstitute with a Cube—a saved ComfyUI subgraph with a stable public surface.
 
-Link: <https://github.com/Artificial-Sweetener/SugarSubstitute> ⭐ 18 | 🐛 22 | 🌐 Python | 📅 2026-11-21
+Link: <https://github.com/Artificial-Sweetener/SugarSubstitute> ⭐ 18 | 🐛 22 | 🌐 Python | 📅 2026-11-22
 
 ## ● Mix Studio
 
@@ -782,7 +782,7 @@ Link: <https://github.com/BlackMixture/Mix-Studio> ⭐ 306 | 🐛 15 | 🌐 Java
 
 A fast diffusion model engine for image generation and editing, optimized for Strix Halo with support for most AMD GPUs. Loads one model at a time and generates or edits images from text prompts. Available as a CLI tool, an HTTP API (with a simple web UI).
 
-Link: <https://github.com/lemonade-sdk/thenoise> ⭐ 42 | 🐛 14 | 🌐 Python | 📅 2026-11-21
+Link: <https://github.com/lemonade-sdk/thenoise> ⭐ 42 | 🐛 14 | 🌐 Python | 📅 2026-11-22
 
 ***
 
@@ -830,4 +830,4 @@ Link: <https://github.com/civitai/CivitUI> ⭐ 35 | 🐛 1 | 🌐 TypeScript | �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
